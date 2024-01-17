@@ -75,7 +75,7 @@
 -->
 
 <h2>Lesson Prerequisites</h2>
-<p1> Any topical or subject matter to prepare for the lesson. In Advanced Cyber Lessons, previous Lessons can be referenced..
+<p1> Any topical or subject matter to prepare for the lesson. In Advanced Cyber Lessons, previous Lessons can be referenced.
 
  </p1>
 <br>
