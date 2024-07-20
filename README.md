@@ -59,7 +59,6 @@
 
 <h2>NICE Framework KSAs</h2>
 
-<!--
 <ul>
 <li>K0001: Knowledge of computer networking concepts, protocols, and network security methodologies.</li>
 <br>
@@ -72,7 +71,6 @@
 <li>K0036: Knowledge of human-computer interaction principles.</li>
 <br>
 <li>K0044: Knowledge of cybersecurity principles and organizational requirements.</li> </ul>
--->
 
 <h2>Lesson Prerequisites</h2>
 <p1> Any topical or subject matter to prepare for the lesson. In Advanced Cyber Lessons, previous Lessons can be referenced.
@@ -102,7 +100,7 @@
 <h3><ins>Introduction to Kali Linux:</ins></h3>
 <ul>
 <li>Uncover the origins and objectives of Kali Linux, a distribution designed for penetration testing, digital forensics, and ethical hacking.</li>
-<li>>Discover the community support and continuous development that keeps Kali Linux at the forefront of cybersecurity tools.</li>
+<li>Discover the community support and continuous development that keeps Kali Linux at the forefront of cybersecurity tools.</li>
 </ul>
 
 <h3><ins>Navigating Kali Linux:</ins></h3>
@@ -139,17 +137,43 @@
 
 
 <h2>Conclusion</h2>
-<p1>
-</p1>
+Understanding Kali Linux is crucial for ethical hacking due to its comprehensive suite of specialized tools and features designed for penetration testing and cybersecurity assessments. As a Linux distribution tailored specifically for security professionals, Kali Linux provides access to a wide array of utilities for vulnerability scanning, network analysis, password cracking, and exploitation, among others. Mastery of Kali Linux enables ethical hackers to simulate real-world attacks, identify potential weaknesses in systems, and implement effective countermeasures. Its robust environment, combined with the ability to conduct thorough and methodical security evaluations, makes Kali Linux an essential tool for professionals committed to enhancing organizational security and protecting against cyber threats.
+
+<h2>Definitions</h2>
+ <ul>
+<li><b>Black Hat Hacker:</b> An individual who uses their technical skills for malicious purposes, such as unauthorized access or theft of data.<br>
 <br>
- 
+
+<li><b>Penetration Testing (Pen Testing):</b> The practice of simulating cyberattacks on a system to identify and address security vulnerabilities before they can be exploited by malicious actors.<br>
+<br>
+
+<li><b>Brute Force Attack:</b> A method of hacking that involves systematically trying all possible passwords or encryption keys until the correct one is found.<br>
+<br>
+
+<li><b>White Hat Hacker (Ethical Hacker):</b> A cybersecurity expert who uses their skills to help organizations improve their security by identifying and fixing vulnerabilities legally and ethically.<br>
+<br>
+
+<li><b>Network Scanning:</b> The process of discovering active devices and services on a network and identifying potential security weaknesses.<br>
+<br>
+
+<li><b>Payload:</b> The part of a malicious attack or exploit that performs the intended action, such as executing a command or delivering a malicious payload.<br>
+<br>
+
+<li><b>Kali Linux:</b> A specialized Linux distribution designed for penetration testing and cybersecurity research, including a wide range of security tools and utilities.<br>
+<br>
+
+<li><b>JacktheRipper:</b> A common misnomer for "John the Ripper," a password cracking tool used to perform brute force and dictionary attacks on hashed passwords.<br>
+<br>
+
+<li><b>Ethical Hacking:</b> The practice of legally and ethically testing and evaluating systems and networks to identify security weaknesses and improve overall security.
+ </ul>
 
 
 <h2> Presentation</h2>
 
 
 <h2> Hands-On Labs</h2>
-
+<h2>Games</h2>
 
  <h2>Additonal Resources</h2>
  <a href="https://www.kali.org/docs/introduction/download-official-kali-linux-images/"> Download Kali Linux </a> <br>
