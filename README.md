@@ -170,7 +170,7 @@ Understanding Kali Linux is crucial for ethical hacking due to its comprehensive
 
 
 <h2> Presentation</h2>
-
+<a href="https://docs.google.com/presentation/d/1EFzei-jWDZK6CcNupal6KEbZRudXGneO/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true">Linux Distributions For Ethical Hacking </a>
 
 <h2> Hands-On Labs</h2>
 <a href="https://github.com/work-ed-cyber/3.5-easy-"> Exploring Linux Distributions for Ethical Hacking </a> - Easy <br>
