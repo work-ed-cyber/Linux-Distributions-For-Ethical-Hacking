@@ -110,7 +110,7 @@
 
 <h3><ins>Diving into Tools and Resources:</ins></h3>
 <ul>
-<li>Explore the plethora of tools available in Kali Linux such as Metasploit for penetration testing, Wireshark for network analysis, and Aircrack-ng for wireless network security.</li>
+<li>Explore the plethora of tools available in Kali Linux, such as Metasploit for penetration testing, Wireshark for network analysis, and Aircrack-ng for wireless network security.</li>
 </ul>
 
 
@@ -181,7 +181,7 @@ Understanding Kali Linux is crucial for ethical hacking due to its comprehensive
 
 <h2>Games</h2>
 
- <h2>Additonal Resources</h2>
+ <h2>Additional Resources</h2>
  <a href="https://www.kali.org/docs/introduction/download-official-kali-linux-images/"> Download Kali Linux </a> <br>
  <br>
  <a href="https://rufus.ie/en/"> Kali Linux Bootable USB </a>
